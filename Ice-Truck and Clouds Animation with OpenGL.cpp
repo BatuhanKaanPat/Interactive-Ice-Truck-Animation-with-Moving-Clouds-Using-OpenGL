@@ -347,7 +347,7 @@ void display() {
 
 	//Writing
 	glColor3ub(1, 1, 0);
-	vprint(-159, 227, GLUT_BITMAP_8_BY_13, "Ice-Truck and Clouds by Batuhan Kaan Pat");
+	vprint(-159, 227, GLUT_BITMAP_8_BY_13, "Ice-Truck and Clouds ");
 
 
 	glutSwapBuffers();
