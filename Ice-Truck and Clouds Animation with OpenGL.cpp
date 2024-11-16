@@ -1,6 +1,3 @@
-//Batuhan Kaan Pat 
-//22202741 
-//CTIS164-004
 // 
 //Additional Function : Truck can be moved by left and right arrow buttons
 // 
